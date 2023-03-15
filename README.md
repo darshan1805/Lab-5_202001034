@@ -1,7 +1,7 @@
 # Lab-5_202001034
 # Darshan Popat
 
-In this lab I learned how to use mypy tool for checking errors in python code. Here are the screenshots of the errors found in my code:
+In this lab I learned how to use mypy tool for checking errors in python code. The code used for testing is uploaded as a py file in this repository. Here are the screenshots of the errors found in my code:
 
 ## 1
 ![image](https://user-images.githubusercontent.com/77342058/225271014-4e36312b-bad7-493a-b611-e9635a32efdc.png)
